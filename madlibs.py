@@ -1,0 +1,25 @@
+
+person = input("Enter a person: ")
+adjective = input("Enter an adjective: ")
+adjective2 = input("Enter another adjective: ")
+noun = input("Enter a noun: ")
+adjective3 = input("Enter another adjective: ")
+noun2 = input("Enter another noun: ")
+adjective4 = input("Enter another adjective: ")
+adjective5 = input("Enter another adjective: ")
+verb = input("Enter a verb: ")
+verb2 = input("Enter another verb: ")
+person2 = input("Enter the same person: ")
+verb3 = input("Enter another verb: ")
+adjective6 = input("Enter another adjective: ")
+verb4 = input("Enter another verb: ")
+
+print()     #For line break
+print()     #For line break
+print("Yesterday, " + person + " and I went to the park.")
+print("On our way to the " + adjective + "park, we saw a " + adjective2 + noun + " on a bike.")
+print("We also saw a big " + adjective3 + " balloons tied to a " + noun2 + ".")
+print("Once we got to the " + adjective4 + " park, the sky turned " + adjective5 + ".")
+print("It started to " + verb + " and " + verb2 + ".")
+print(person2 + " and I " + verb3 + " all the way home.")
+print("Tomorrow we will try to go to the " + adjective6 + " again and hope it doesn't " + verb4 + ".")
